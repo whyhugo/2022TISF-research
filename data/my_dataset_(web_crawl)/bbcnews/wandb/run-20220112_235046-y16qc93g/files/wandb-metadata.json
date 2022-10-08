@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-01-12T15:50:54.357220",
+    "startedAt": "2022-01-12T15:50:46.496729",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\user\\AppData\\Roaming\\jupyter\\runtime\\kernel-77139ada-38a5-416e-9135-2aa402a1e08b.json"
+    ],
+    "state": "running",
+    "program": "programing/programing_created-acer/fnc-1/my_dataset/bbcnews/crawl_bbcnews.ipynb",
+    "root": "D:/programing/programing_created-acer/fnc-1",
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "hugo.tw.wang@gmail.com",
+    "host": "LAPTOP-S2H6RK5U",
+    "username": "user",
+    "executable": "C:\\Users\\user\\.conda\\envs\\tensorflowgpuenv\\python.exe"
+}
